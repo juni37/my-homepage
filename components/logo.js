@@ -35,7 +35,7 @@ const Logo = () => {
             fontWeight="bold"
             ml={3}
           >
-            Takuya Matsuyama
+            Yujun Kim
           </Text>
         </LogoBox>
       </a>
